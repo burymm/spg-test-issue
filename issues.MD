@@ -9,6 +9,8 @@
 * When video loaded firs item in list should be preload in video player
 * If user click by another one movie it should be play in player, current playing video should be stopped
 * site should be adopted for mobile and tablets also
+* link for video https://drive.google.com/file/d/1fht0xrTPfOinbhB_04vEQbe9SXDmsZbL/view?usp=sharing
+* video should be stored in folder video, but no uploaded to git
 
 ## Browser support
 * MS Edge
